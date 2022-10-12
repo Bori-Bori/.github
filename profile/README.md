@@ -1,4 +1,4 @@
-[Profile Image 출처](https://simyeon-workspace.notion.site/Bori-Bori-881dcdee1688425bb8c887d637cac598)
+<a href="https://www.flaticon.com/kr/free-icons/" title="허수아비 아이콘">허수아비 아이콘  제작자: Freepik - Flaticon</a>
 ## Hi there 👋
 
 ## this is Bori - Bori
