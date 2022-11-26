@@ -29,9 +29,6 @@
 * [✅ Auth Server](https://github.com/Bori-Bori/auth-server/wiki)
 * [✅ Book Server](https://github.com/Bori-Bori/book-server/wiki)
 
-# Introduce Team
-
-
 
 ## 만든 사람들
 
