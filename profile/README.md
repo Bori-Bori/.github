@@ -40,10 +40,10 @@
     <tr>
         
         <td align="center">
-        <a href="https://github.com/YoujungSon"><img src="https://user-images.githubusercontent.com/79268661/204084110-08ca2cf9-3046-4766-b876-76c78e6b7786.png" width="100px;" alt="손유정"/><br /><sub><b>손유정📱</b></sub></a><br />
+        <a href="https://github.com/YoujungSon"><img src="https://avatars.githubusercontent.com/u/88040809?v=4" width="100px;" alt="손유정"/><br /><sub><b>손유정📱</b></sub></a><br />
         </td>
       <td align="center">
-        <a href="https://github.com/vnfdusdl"><img src="https://user-images.githubusercontent.com/79268661/204084164-3f2b7e9b-5422-433a-ab43-c7ef68c16a61.png" width="100px;" alt="김초연"/><br /><sub><b>김초연📱</b></sub></a><br />
+        <a href="https://github.com/vnfdusdl"><img src="https://avatars.githubusercontent.com/u/89509857?v=4" width="100px;" alt="김초연"/><br /><sub><b>김초연📱</b></sub></a><br />
         </td>
       
         <td align="center">
