@@ -2,13 +2,25 @@
 ## Hi there 👋
 
 ## this is Bori - Bori
-<!--
 
-**Here are some ideas to get you started:**
+# Agenda
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+* Client
+* Server
+
+# Server
+
+## 🌼 서비스 전체 Architecture
+
+
+<div style="text-align : center;">
+<img width="818" alt="image" src="https://user-images.githubusercontent.com/79268661/204082477-54a5e87c-3fcc-44ad-9bfb-54d978da9938.png">
+</div>
+
+## Repository
+
+* [✅ Board Server](https://github.com/Bori-Bori/board-server/wiki)
+* [✅ Auth Server](https://github.com/Bori-Bori/auth-server/wiki)
+* [✅ Book Server](https://github.com/Bori-Bori/book-server/wiki)
+
+
