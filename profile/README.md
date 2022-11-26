@@ -37,7 +37,6 @@
 <table>
   <tbody>
     <tr>
-      <td align="center">
         
         <td align="center">
         <a href="https://github.com/YoujungSon"><img src="https://user-images.githubusercontent.com/79268661/204084110-08ca2cf9-3046-4766-b876-76c78e6b7786.png" width="100px;" alt="손유정"/><br /><sub><b>손유정📱</b></sub></a><br />
