@@ -19,9 +19,7 @@
 ## 🌼 서비스 전체 Architecture
 
 
-<div style="text-align : center;">
 ![image](https://user-images.githubusercontent.com/79268661/206153317-19ff8f02-a323-4a6e-be06-df1879c869c2.png)
-</div>
 
 ## Repository
 
