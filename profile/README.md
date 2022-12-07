@@ -20,7 +20,7 @@
 
 
 <div style="text-align : center;">
-<img width="818" alt="image" src="https://user-images.githubusercontent.com/79268661/204082477-54a5e87c-3fcc-44ad-9bfb-54d978da9938.png">
+![image](https://user-images.githubusercontent.com/79268661/206153317-19ff8f02-a323-4a6e-be06-df1879c869c2.png)
 </div>
 
 ## Repository
